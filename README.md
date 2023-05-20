@@ -1,4 +1,4 @@
-# Data-Analysis
+# Dashboard creation using excel
 This is the dashboard for Vrinda store bike analysis..
 
 Here I have gone through the data cleaning process and dashboard creation in Excel for bike analysis.
@@ -19,3 +19,7 @@ year: The year it ranked on the best seller
 In this, data is cleaning and outlier detection.
 Exploring trend over year for each year
 Number of selling books in each genre each year. For this countplot is used to visualize.
+
+# Top 10 Indian Food Analysis
+Dataset is collected from kaggle website.
+Here I have done data cleaning, analysis and some visuals using charts.
