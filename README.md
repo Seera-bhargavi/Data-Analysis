@@ -9,9 +9,9 @@ Price:Price of the book
 Genre:whether fiction or non-fiction
 year: The year it ranked on the best seller
 
-In this, data is cleaning and outlier detection.
-Exploring trend over year for each year
-Number of selling books in each genre each year. For this countplot is used to visualize.
+Here i have gone through data cleaning and outlier detection.
+Exploring trend over year.For each year
+Number of selling books in each genre.For this countplot is used to visualize.
 
 # Top 10 Indian Food Analysis
 Dataset is collected from kaggle website.
