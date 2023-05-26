@@ -1,10 +1,3 @@
-# Dashboard creation using excel
-This is the dashboard for Vrinda store bike analysis..
-
-Here I have gone through the data cleaning process and dashboard creation in Excel for bike analysis.
-
-
-
 # Exploratoty Data Analysis of Amazon top 50 selling books.
 Data set is collected from kaggle website.
 feautures of the dataset:
